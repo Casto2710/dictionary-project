@@ -1,5 +1,18 @@
-.Dictionary {
-  background-color: #282c34;
-  color: aliceblue;
-  
+.Dictionary h1 {
+  font-size:20px ;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+.Dictionary section {
+  background-color:#3b6a77; ;
+  color: rgb(231, 236, 241);
+  padding: 30px;
+  border-radius: 16px;
+  box-shadow: 0 5px 15px rgb(0 0 0 /10%);
+}
+.Dictionary .hint {
+  font-size: 11px;
+  color:salmon;
+  margin-top:7px;
 }
