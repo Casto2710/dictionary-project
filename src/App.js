@@ -14,7 +14,19 @@ export default function App() {
         <Dictionary defaultKeyword="Sunset"/>
       </main>
       <footer className="App-footer">
-        <small>Coded by Jolanta Studencka </small>
+        <small>
+          <a
+            href="https://jolanta-studencka.netlify.app/" 
+            target="_noreferrer"
+            > Coded by Jolanta Studencka 
+            </a>
+            <br/>
+             <a href="https://github.com/Casto2710/dictionary-project"
+                target="_noreferrer"
+                >
+             and it's open-sourced on GitHub
+           </a>
+        </small>
         </footer>
      </div>
     </div>
